@@ -172,5 +172,3 @@ read lagi
 
 done
 done
-
-echo "the flag is KBTI{it's a trap son}"
